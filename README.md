@@ -4,14 +4,14 @@
 We hope that this simple addon will solve some tricky problems of perfectly aligning the pivot (origin) of a blender object
 
 ## A. Align pivot to one edge
-Suppose we have a mesh (as below) where we want to align the pivot to one of the edges 
+Suppose we have a mesh (as below) for which we want to align the pivot to one of the edges  
 <img src=docs\img\Intro01.png width=300>
 
 1. In edit mode, we select an edge  
 <img src=docs\img\Intro02.png width=300>
 
 2. in the right click context menu ...  
-<img src=docs\img\Intro03.png width=300>
+<img src=docs\img\Intro03.png width=400>
 
 3. choose Align Pivot  
 <img src=docs\img\Intro04.png width=300>
