@@ -57,14 +57,21 @@ Suppose we have two edges perpendicular to each other and have a common vertex, 
 
 ## Align two objects
 1. select both object (object mode) 
-<img src=docs\img\2022-04-30_13-16-47.png width=500>
+<img src=docs\img\2022-04-30_13-16-47.png width=300>
 2. change to edit mode  
-<img src=docs\img\2022-04-30_13-15-21.png width=500>
+<img src=docs\img\2022-04-30_13-15-21.png width=300>
 3. select one edge from each object 
-<img src=docs\img\2022-04-30_13-07-08.png width=500>
+<img src=docs\img\2022-04-30_13-07-08.png width=300>
 4. align object 
-<img src=docs\img\2022-04-30_13-06-06.png width=500>
+<img src=docs\img\2022-04-30_13-06-06.png width=300>
 5. use 'other object/edge' to swap 
-<img src=docs\img\2022-04-30_13-04-06.png width=500> 
+<img src=docs\img\2022-04-30_13-04-06.png width=300> 
 
+## Rotate an object so that one edge replaces another edge angle
+1. with single object selected in edit mode, select two edges
+<img src=docs\img\220430_142503.png width=300>
+2. again use the same menu item as above
+<img src=docs\img\220430_142503.png width=300> 
+3. notice object rotated so that old red is now parallel to old green
+<img src=docs\img\220430_142418.png width=300> 
 
