@@ -1,4 +1,4 @@
-# AlignPivot2Edge
+# FS Align Tools
 > This is a brief guide to blender addon - Align Pivot to Edge
 
 We hope that this simple addon will solve some tricky problems of perfectly aligning the pivot (origin) of a blender object
@@ -55,6 +55,16 @@ Suppose we have two edges perpendicular to each other and have a common vertex, 
 
 7. changing vertex will have no effect in 2-edge mode
 
-
+## Align two objects
+1. select both object (object mode) 
+<img src=docs\img\2022-04-30_13-16-47.png width=500>
+2. change to edit mode  
+<img src=docs\img\2022-04-30_13-15-21.png width=500>
+3. select one edge from each object 
+<img src=docs\img\2022-04-30_13-07-08.png width=500>
+4. align object 
+<img src=docs\img\2022-04-30_13-06-06.png width=500>
+5. use 'other object/edge' to swap 
+<img src=docs\img\2022-04-30_13-04-06.png width=500> 
 
 
