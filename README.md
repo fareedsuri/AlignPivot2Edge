@@ -69,9 +69,9 @@ Suppose we have two edges perpendicular to each other and have a common vertex, 
 
 ## Rotate an object so that one edge replaces another edge angle
 1. with single object selected in edit mode, select two edges
-<img src=docs\img\220430_142503.png width=300>
+<img src=docs\img\220430_142327.png width=300>
 2. again use the same menu item as above
-<img src=docs\img\220430_142503.png width=300> 
-3. notice object rotated so that old red is now parallel to old green
 <img src=docs\img\220430_142418.png width=300> 
+3. notice object rotated so that old red is now parallel to old green
+<img src=docs\img\220430_142503.png width=300> 
 
